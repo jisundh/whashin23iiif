@@ -1,0 +1,228 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "8월 15일 아츰 9시 반 기자도 和信新舘移轉을 흥미잇게 기다려 왓든 사람중의 한 사람으로 첫날 아츰으로 「和信」을 행해 거러왓다. 마츰 이날이 日曜日이고 하니 으레히 거저 구경이라도 할 양으로 몰여오는 사람들이 만흐려니 생각하며 安國洞을 거처 종로네거리에 이르럿다.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>8월 15일 아츰 9시 반 기자도 和信新舘移轉을 흥미잇게 기다려 왓든 사람중의 한 사람으로 첫날 아츰으로 「和信」을 행해 거러왓다. 마츰 이날이 日曜日이고 하니 으레히 거저 구경이라도 할 양으로 몰여오는 사람들이 만흐려니 생각하며 安國洞을 거처 종로네거리에 이르럿다.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:35:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358538117",
+    "dcterms:modified" : "2023-11-30T15:35:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=837,264,462,659"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M837.19815,263.89828h230.78864v0h230.78864v329.26948v329.26948h-230.78864h-230.78864v-329.26948z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0eae7201-fb23-4361-8e4b-21e83e7af595\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6c6cd9\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa347023-75a8-4b86-a4bd-9786a836f593"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "열시까지 끗칠 줄을 몰으고 작구 몰여들어 오는가.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>열시까지 끗칠 줄을 몰으고 작구 몰여들어 오는가.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:35:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358517349",
+    "dcterms:modified" : "2023-11-30T15:35:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1313,261,114,662"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1313.1889,260.61559h56.80581v0h56.80581v330.91083v330.91083h-56.80581h-56.80581v-330.91083z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b4a08fa5-1152-474f-999a-7a4cbbfba2ae\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6c6cd9\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa347023-75a8-4b86-a4bd-9786a836f593"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "「和信」本舘의 5층 樓上에는 놉히 「화신」의 표를 그린 붉은 깃대가 蒼天에 놉히 훨훨 휘날니고 잇고 新舘前面으로는 울긋불긋한 커다란 꼿다발 두 개가 달여 잇서 이른 아츰부터 말숙하게 차리고 거리로 흘너 단이는 수만흔 사람들의 시선을 한 군데로 집중 식히고 잇다.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>「和信」本舘의 5층 樓上에는 놉히 「화신」의 표를 그린 붉은 깃대가 蒼天에 놉히 훨훨 휘날니고 잇고 新舘前面으로는 울긋불긋한 커다란 꼿다발 두 개가 달여 잇서 이른 아츰부터 말숙하게 차리고 거리로 흘너 단이는 수만흔 사람들의 시선을 한 군데로 집중 식히고 잇다.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:35:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358559149",
+    "dcterms:modified" : "2023-11-30T15:35:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=374,264,445,655"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M374.33818,263.89828h222.5819v0h222.5819v327.62814v327.62814h-222.5819h-222.5819v-327.62814z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ec468b67-38a3-4c87-b879-9e0a5f10497a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6c6cd9\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa347023-75a8-4b86-a4bd-9786a836f593"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "pageNumber",
+      "@type" : "oa:Tag",
+      "chars" : "pageNumber"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "143",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>143</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:37:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358673937",
+    "dcterms:modified" : "2023-11-30T15:37:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=687,2370,77,61"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M686.83543,2369.68853h38.67185v0h38.67185v30.48232v30.48232h-38.67185h-38.67185v-30.48232z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4aaa415f-2dca-4816-8c4e-34a28b674ee3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa347023-75a8-4b86-a4bd-9786a836f593"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "문안을 썩 들어서니 문밖에만 사람들이 밀니는 것이 안이고 店內는 더욱 사람들로 꽉 채워저 있다. 대개는 가정에서 통터러 나온 모양이다. 어린 아이들과 늙은 노인들이 많음을 볼 수 있다. 겨우 그들의 틈을 피하여 눈을 살피니 1층에는 布木部와 金銀部가 있다. 이 화신에서 이번 신관 이전을 긔념하는 의미에서 모든 물가에서 2分割引을 하는데 특히 금은속물에 한하여는 활인이 업기에 억시도시 「소시민」의 심정에는 크게 싼 물건이나 많은가 하고 듸리몰여도 이 일층의 귀금속품부에 만은 사람들의 발자욱이 드물어서 때아닌 奇현상을 나타내고 아래쪽 布木부에는 대개가 중류 이하의 가정부인급들이 몰여와서 물건흥정에 제각기 분주하다. 나는 이들의 틈을 솟아나서 2층으로 올너가니 제일 먼저 눈에 띄이는 것은 食料品部로 이 곳 억시 전에 별달음 없는 설비와 장치로서 새로히 손님들의 시선을 끄을 만한 점이 없다. 그런 관게인지, 별로히 사람들이 몰니지를 안는다. 나는 이리저리 새로히 장치한 이모저모를 바라보며 이쪽 化粧品部로 빠저나오니 이곳에는 모-단 녀성들, 녀학생들급이 꽤 많이 몰여서서 새로히 뽑힌 세사람의 新入女店員들이 어쩔쭐을 모르고 갈팡질팡한다. 벌서 2층 「엘레페다」 앞에는 한 번 보아 시골풍의 안악네들이 어린 아해를 등에 업고 한손에는 아이들 손목을잡고 서잇는가 하면 중학생급의 학생들이며, 店員뽀이급의 사람들이 몰여서서 샛파란 洋裝의 制服을 한 「엘레페다」 운전수의 수집어 하는 얼골에 일제히 正面射擊을 하고 있다. 그들의 틈을 쑤시고 겨우 삐여저 나오니 숨이 꽉 막힌다. 이쪽 手藝品部에도 가정부인급, 녀학생급들이 많이 모여 서있다. 그런데 대개가 새로히 들어온 店員들읊� 많이들 뵈인다. 그 엽에 있는 文房具部에를 가니 이 곳에는 마치 中學生專用의 상점인거와 같이 빈틈없이 고구라양복생들이 제각기 물건을 사노라고 매우 밧분 모양이다. 그 길로 발을 돌여 3층으로 올너가니 3층 전부가 洋品部인데 장차 닥처올＜pageNumber&gt;143&lt;pageNumber&gt;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>문안을 썩 들어서니 문밖에만 사람들이 밀니는 것이 안이고 店內는 더욱 사람들로 꽉 채워저 있다. 대개는 가정에서 통터러 나온 모양이다. 어린 아이들과 늙은 노인들이 많음을 볼 수 있다. 겨우 그들의 틈을 피하여 눈을 살피니 1층에는 布木部와 金銀部가 있다. 이 화신에서 이번 신관 이전을 긔념하는 의미에서 모든 물가에서 2分割引을 하는데 특히 금은속물에 한하여는 활인이 업기에 억시도시 「소시민」의 심정에는 크게 싼 물건이나 많은가 하고 듸리몰여도 이 일층의 귀금속품부에 만은 사람들의 발자욱이 드물어서 때아닌 奇현상을 나타내고 아래쪽 布木부에는 대개가 중류 이하의 가정부인급들이 몰여와서 물건흥정에 제각기 분주하다. 나는 이들의 틈을 솟아나서 2층으로 올너가니 제일 먼저 눈에 띄이는 것은 食料品部로 이 곳 억시 전에 별달음 없는 설비와 장치로서 새로히 손님들의 시선을 끄을 만한 점이 없다. 그런 관게인지, 별로히 사람들이 몰니지를 안는다. 나는 이리저리 새로히 장치한 이모저모를 바라보며 이쪽 化粧品部로 빠저나오니 이곳에는 모-단 녀성들, 녀학생들급이 꽤 많이 몰여서서 새로히 뽑힌 세사람의 新入女店員들이 어쩔쭐을 모르고 갈팡질팡한다. 벌서 2층 「엘레페다」 앞에는 한 번 보아 시골풍의 안악네들이 어린 아해를 등에 업고 한손에는 아이들 손목을잡고 서잇는가 하면 중학생급의 학생들이며, 店員뽀이급의 사람들이 몰여서서 샛파란 洋裝의 制服을 한 「엘레페다」 운전수의 수집어 하는 얼골에 일제히 正面射擊을 하고 있다. 그들의 틈을 쑤시고 겨우 삐여저 나오니 숨이 꽉 막힌다. 이쪽 手藝品部에도 가정부인급, 녀학생급들이 많이 모여 서있다. 그런데 대개가 새로히 들어온 店員들읊� 많이들 뵈인다. 그 엽에 있는 文房具部에를 가니 이 곳에는 마치 中學生專用의 상점인거와 같이 빈틈없이 고구라양복생들이 제각기 물건을 사노라고 매우 밧분 모양이다. 그 길로 발을 돌여 3층으로 올너가니 3층 전부가 洋品部인데 장차 닥처올＜pageNumber&gt;143&lt;pageNumber&gt;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:37:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358658756",
+    "dcterms:modified" : "2023-11-30T15:37:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=80,263,1350,2089"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M84.17834,265.89828l160.85205,-3.28269l3.28269,705.77939l1168.63937,3.28269l12.2167,1380.35598h-1349.63491z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_7627f2ec-b3bb-43e0-9d4b-02cdccf7fee4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6c6cd9\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa347023-75a8-4b86-a4bd-9786a836f593"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "문압에 몰여드는 人波에 휩싸여 나도 그 속에 끼워 드러섯다.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>문압에 몰여드는 人波에 휩싸여 나도 그 속에 끼워 드러섯다.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:36:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358579782",
+    "dcterms:modified" : "2023-11-30T15:36:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=263,261,97,655"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M262.72655,260.61559h48.59908v0h48.59908v327.62814v327.62814h-48.59908h-48.59908v-327.62814z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_acb12e37-4803-4a67-bdb9-5af2dd77486a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6c6cd9\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa347023-75a8-4b86-a4bd-9786a836f593"
+    } ]
+  } ],
+  "@id" : "https://jisundh.github.io/whashin23iiif/annotations/392fd371694738e126500b753a3496b8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
