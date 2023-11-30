@@ -1,0 +1,113 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Whashin Department Store East Building.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Whashin Department Store East Building.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:44:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359048035",
+    "dcterms:modified" : "2023-11-30T15:44:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=646,292,64,248"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M650.35617,292.18909l59.69455,56.55273l-7.85455,10.99636l-4.71273,171.22909l-51.84,9.42545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_3511bf80-d425-4452-93e4-6d338cad447f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2d0cfc2a-46b6-4002-bf02-49873fccb0ac"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "WhashinFacility",
+      "@type" : "oa:Tag",
+      "chars" : "WhashinFacility"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Electronic signage",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Electronic signage</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:40:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701358836245",
+    "dcterms:modified" : "2023-11-30T15:40:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=251,41,312,90"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M254.5907,41.11406l-3.16262,37.95144l309.93674,52.18323l1.58131,-33.20751z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b6f54ca1-d213-4b13-925d-4f3085e43736\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffc429\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2d0cfc2a-46b6-4002-bf02-49873fccb0ac"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "WhashiNewBuilding",
+      "@type" : "oa:Tag",
+      "chars" : "WhashiNewBuilding"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Whashin Department Store New Building.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Whashin Department Store New Building.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:43:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359009802",
+    "dcterms:modified" : "2023-11-30T15:43:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=77,31,567,522"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M80.11617,51.84l124.10182,-9.42545l37.70182,25.13455l4.71273,-36.13091l318.89455,56.55273v61.26545l26.70545,3.14182l51.84,64.40727l-9.42545,3.14182v323.60727l-51.84,9.42545l-29.84727,-3.14182l-97.39636,1.57091h-78.54545l-29.84727,-3.14182l-102.10909,4.71273h-53.41091l-94.25455,-3.14182l-17.28,-446.13818l6.28364,-17.28l-9.42545,-9.42545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_13719bbe-3809-449a-ba25-d4493c4e9f1c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2d0cfc2a-46b6-4002-bf02-49873fccb0ac"
+    } ]
+  } ],
+  "@id" : "https://jisundh.github.io/whashin23iiif/annotations/1150974fb863420909334f1751279302.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
