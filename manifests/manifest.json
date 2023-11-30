@@ -3,6 +3,11 @@
   "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "IIIF-based research on 1930s Korean materials: focusing on Whashin Department Store",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/152469503/aaa90ae9752333388974028533c0cf8e/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Source",
     "value" : "National Library of Korea; National Institute of Korean History; Seoul Museum Of History; National Museum of Korea."
@@ -17,7 +22,7 @@
     "value" : "jisun Kim"
   } ],
   "description" : [ {
-    "@value" : "I collected articles, images, diaries, and postcards materials that mention or feature Whashin Department Store.",
+    "@value" : "I collected articles, images, diaries, postcards and video materials that mention or feature Whashin Department Store.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -77,6 +82,11 @@
       }, {
         "label" : "Page",
         "value" : "142"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/fa5865e866086496bfb24a2137b6c486.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://fa347023-75a8-4b86-a4bd-9786a836f593",
@@ -128,6 +138,11 @@
       }, {
         "label" : "Type",
         "value" : "Magazine"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/392fd371694738e126500b753a3496b8.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d",
@@ -179,6 +194,11 @@
       }, {
         "label" : "Type",
         "value" : "Newspaper"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/6e4c14407fd46b73a69e07c13ed8a75f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://f87a1c33-3934-421e-979b-032f386bbf42",
@@ -230,6 +250,11 @@
       }, {
         "label" : "Type",
         "value" : "Newspaper"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/6ffc6777306007fd650028182ebc7966.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://2d0cfc2a-46b6-4002-bf02-49873fccb0ac",
@@ -278,6 +303,11 @@
       }, {
         "label" : "Type",
         "value" : "photo"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/1150974fb863420909334f1751279302.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://63d6079b-d180-49da-bc30-1ec4e3767370",
@@ -323,6 +353,11 @@
       }, {
         "label" : "Type",
         "value" : "Postcard"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/11e667bf8fcdeee1bca4bd398f64836f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://61eb1bdc-8ae5-47d5-83f4-f4bc63bd7535",
@@ -373,6 +408,11 @@
       }, {
         "label" : "Type",
         "value" : "diary"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisundh.github.io/whashin23iiif/annotations/8adea3623a13471e9ee61095ab4528f7.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     } ]
   } ],
