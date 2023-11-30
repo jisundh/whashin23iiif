@@ -1,0 +1,191 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "entry",
+      "@type" : "oa:Tag",
+      "chars" : "entry"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Brother 致旺 returned home on a flying visit this morning. 5 1/2 p.m. with wife, 文姬, Miss Kim Melissa and 光鉉 went to the Wha-Shin Department Store Restaurant to see Jung Bong Sup(鄭鳳燮) a young man who has been recommended to us as a possible candidate for a son-in-law. He is a graduate of the Gov. Med. School and is now an intern in the Government Hospital. We liked his exterior appearance. He is very highly spoken of by his former teacher, Mr. 朴永彬.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Brother 致旺 returned home on a flying visit this morning. 5 1/2 p.m. with wife, 文姬, Miss Kim Melissa and 光鉉 went to the Wha-Shin Department Store Restaurant to see Jung Bong Sup(鄭鳳燮) a young man who has been recommended to us as a possible candidate for a son-in-law. He is a graduate of the Gov. Med. School and is now an intern in the Government Hospital. We liked his exterior appearance. He is very highly spoken of by his former teacher, Mr. 朴永彬.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T16:09:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701360574724",
+    "dcterms:modified" : "2023-11-30T16:09:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=741,634,2156,4058"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M741.29437,633.54346h1078.05295v0h1078.05295v2029.03863v2029.03863h-1078.05295h-1078.05295v-2029.03863z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a39f50c0-b03e-4407-a6c4-3d44fe076a9b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6363f1\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://61eb1bdc-8ae5-47d5-83f4-f4bc63bd7535"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Diary that mentions Whashin Department Store.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Diary that mentions Whashin Department Store.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "WhashinDiary",
+      "@type" : "oa:Tag",
+      "chars" : "WhashinDiary"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-11-30T16:18:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701361084318",
+    "dcterms:modified" : "2023-11-30T16:20:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=717,593,2720,4083"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M716.53853,593.41568h1359.98283v0h1359.98283v2041.28622v2041.28622h-1359.98283h-1359.98283v-2041.28622z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.77647,0.10196,0.10196],&quot;editable&quot;:true}\" id=\"rectangle_b8834fdd-f346-4fcc-9d35-5c950819d0a4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#c61a1a\" stroke-width=\"46.23596\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://61eb1bdc-8ae5-47d5-83f4-f4bc63bd7535"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diaryLocation",
+      "@type" : "oa:Tag",
+      "chars" : "diaryLocation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Seoul Home",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Seoul Home</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T16:10:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701360622636",
+    "dcterms:modified" : "2023-11-30T16:10:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2922,1086,170,1465"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2921.67179,1085.84761h84.82267v0h84.82267v732.67249v732.67249h-84.82267h-84.82267v-732.67249z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b86864a6-667e-4b8f-83c1-a1b4c38f2f33\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#bea5a5\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://61eb1bdc-8ae5-47d5-83f4-f4bc63bd7535"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diaryDate",
+      "@type" : "oa:Tag",
+      "chars" : "diaryDate"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "April 2nd 1934",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>April 2nd 1934</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T16:11:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701360663312",
+    "dcterms:modified" : "2023-11-30T16:11:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3131,1028,238,1559"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3131.09124,1028.18881h118.84549v0h118.84549v779.32834v779.32834h-118.84549h-118.84549v-779.32834z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_48473bce-1ee0-4958-a238-e7439ca631e2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://61eb1bdc-8ae5-47d5-83f4-f4bc63bd7535"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diaryWeather",
+      "@type" : "oa:Tag",
+      "chars" : "diaryWeather"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Beautiful Icy",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Beautiful Icy</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T16:19:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701361152848",
+    "dcterms:modified" : "2023-11-30T16:19:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3116,2616,227,1915"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3115.59621,2615.58212h113.34258v0h113.34258v957.72391v957.72391h-113.34258h-113.34258v-957.72391z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_39dda669-3068-47c2-a7e5-3b04c54fa9a0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#83c683\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://61eb1bdc-8ae5-47d5-83f4-f4bc63bd7535"
+    } ]
+  } ],
+  "@id" : "https://jisundh.github.io/whashin23iiif/annotations/8adea3623a13471e9ee61095ab4528f7.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
