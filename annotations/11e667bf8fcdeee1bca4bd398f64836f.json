@@ -1,0 +1,191 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "photo",
+      "@type" : "oa:Tag",
+      "chars" : "photo"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This photo shows a view of Whashin Department Store.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This photo shows a view of Whashin Department Store.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:46:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359208077",
+    "dcterms:modified" : "2023-11-30T15:46:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=753,321,3567,2447"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M753.18132,321.33657h1783.39286v0h1783.39286v1223.61642v1223.61642h-1783.39286h-1783.39286v-1223.61642z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ee0613ee-51e2-4c38-a418-a46956559b56\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://63d6079b-d180-49da-bc30-1ec4e3767370"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "京城名勝",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>京城名勝</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "seriesName",
+      "@type" : "oa:Tag",
+      "chars" : "seriesName"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-11-30T15:53:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359628632",
+    "dcterms:modified" : "2023-11-30T16:04:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=333,2609,313,79"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M332.84377,2608.94283h156.60573v0h156.60573v39.39622v39.39622h-156.60573h-156.60573v-39.39622z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.6,1,0.16078],&quot;editable&quot;:true}\" id=\"rectangle_f7c51e22-e19d-4712-83aa-33e620a29707\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#99ff29\" stroke-width=\"4.86024\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://63d6079b-d180-49da-bc30-1ec4e3767370"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "WhashinEastBuilding",
+      "@type" : "oa:Tag",
+      "chars" : "WhashinEastBuilding"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Whashin Department Store East Building.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Whashin Department Store East Building.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:46:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359169729",
+    "dcterms:modified" : "2023-11-30T15:46:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=771,327,1067,1835"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M831.97375,343.54511l970.00972,521.38022l36.37536,56.5839l-48.50049,20.20854v521.38022l16.16683,359.71194l-359.71194,-40.41707l-68.70902,12.12512l-68.70902,44.45878l-8.08341,173.79341l-36.37536,28.29195l-20.20854,72.75073l-456.71291,48.50049l-16.16683,-1834.93505z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_f36b067d-7bf0-4b59-8d27-07d7e9897336\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://63d6079b-d180-49da-bc30-1ec4e3767370"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "京城獨自のカラーを持つ鍾路風景は絶對に見逃せない、鍾路通りは一丁目より五丁目迄續く朝鮮人商店街にして内地人商店街本町通りとよき對照をなす。其の昔樓上に鍾を懸け朝夕の時報をした所渭鍾樓がある。",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>京城獨自のカラーを持つ鍾路風景は絶對に見逃せない、鍾路通りは一丁目より五丁目迄續く朝鮮人商店街にして内地人商店街本町通りとよき對照をなす。其の昔樓上に鍾を懸け朝夕の時報をした所渭鍾樓がある。</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cutline",
+      "@type" : "oa:Tag",
+      "chars" : "cutline"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-11-30T15:48:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359286600",
+    "dcterms:modified" : "2023-11-30T15:52:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=272,1514,406,996"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M272.21817,1513.64019h203.08536v0h203.08536v498.12998v498.12998h-203.08536h-203.08536v-498.12998z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0.76863,0.16078],&quot;editable&quot;:true}\" id=\"rectangle_3ce334d1-69c4-4519-a303-bc5312541b77\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffc429\" stroke-width=\"32.33366\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://63d6079b-d180-49da-bc30-1ec4e3767370"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "caption",
+      "@type" : "oa:Tag",
+      "chars" : "caption"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "鐘路の盛觀",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>鐘路の盛觀</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T15:47:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701359254585",
+    "dcterms:modified" : "2023-11-30T15:47:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=555,944,83,350"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M555.13767,943.75948h41.41707v0h41.41707v174.79341v174.79341h-41.41707h-41.41707v-174.79341z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_465c2548-1e19-4891-8e31-0260accdf233\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://63d6079b-d180-49da-bc30-1ec4e3767370"
+    } ]
+  } ],
+  "@id" : "https://jisundh.github.io/whashin23iiif/annotations/11e667bf8fcdeee1bca4bd398f64836f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
