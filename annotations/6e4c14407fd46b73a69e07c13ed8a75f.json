@@ -1,0 +1,298 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "WhashinNewBuilding",
+      "@type" : "oa:Tag",
+      "chars" : "WhashinNewBuilding"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Whashin Department Store New Building.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Whashin Department Store New Building.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:26:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701354387850",
+    "dcterms:modified" : "2023-11-30T14:26:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=464,2899,870,650"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M464.04655,3065.19357l312.61091,-86.4l34.56,-14.13818l-1.57091,-65.97818l421.00364,14.13818l4.71273,73.83273l39.27273,9.42545l59.69455,47.12727l-1.57091,482.26909h-39.27273l-51.84,4.71273l-127.24364,3.14182l-149.23636,10.99636l-128.81455,-3.14182l-76.97455,-3.14182l-92.68364,9.42545l-72.26182,-3.14182l-70.69091,3.14182l-53.41091,1.57091l10.99636,-471.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b60be0d3-824c-40b7-a684-50829d3348a7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#1ddedb\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "화신(和信) 백화점은 그동안증축공사중이던바 근공사를완료하야 十一월초순부터 드듸여개점하게되엇다 조선최초의 전광(電光) 『뉴-스』를설치하는외에 내부의화려한장치를비롯하야 영화실, 귀빈실(貴賓室) 까지잇서 종로상가에 큰위관을 뵈이고잇는데 공비는 九十三만원이라한다",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>화신(和信) 백화점은 그동안증축공사중이던바 근공사를완료하야 十一월초순부터 드듸여개점하게되엇다 조선최초의 전광(電光) 『뉴-스』를설치하는외에 내부의화려한장치를비롯하야 영화실, 귀빈실(貴賓室) 까지잇서 종로상가에 큰위관을 뵈이고잇는데 공비는 九十三만원이라한다</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "body",
+      "@type" : "oa:Tag",
+      "chars" : "body"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-11-30T14:20:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701354011734",
+    "dcterms:modified" : "2023-11-30T14:27:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=114,2833,317,851"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M113.73382,2834.26993l80.11636,-1.57091l-1.57091,421.00364l238.77818,4.71273l-3.14182,425.71636l-274.90909,-3.14182l1.57091,-355.02545l-40.84364,-1.57091z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_04bbf109-5845-43c4-92f4-006853b4fe8e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#6666d2\" stroke-width=\"12.56727\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "title",
+      "@type" : "oa:Tag",
+      "chars" : "title"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<div style=\"color: #d4d4d4; background-color: #1e1e1e; font-family: Consolas, 'Courier New', monospace; line-height: 19px; white-space: pre;\"><span style=\"color: #ce9178;\">和信新舘 竣工在邇",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<div style=\"color: #d4d4d4; background-color: #1e1e1e; font-family: Consolas, 'Courier New', monospace; line-height: 19px; white-space: pre;\"><span style=\"color: #ce9178;\">和信新舘 竣工在邇</span></div>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:12:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701353545947",
+    "dcterms:modified" : "2023-11-30T14:12:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=258,2836,175,379"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M258,2836.15271h87.36364v0h87.36364v189.63636v189.63636h-87.36364h-87.36364v-189.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_77fca2f5-0bfb-41e8-bb48-ead3d0196cd0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#568427\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "photo",
+      "@type" : "oa:Tag",
+      "chars" : "photo"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Whashin Department Store New Building",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Whashin Department Store New Building</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:20:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701354057779",
+    "dcterms:modified" : "2023-11-30T14:20:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=448,2842,894,839"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M447.90836,2841.69539h447.13818v0h447.13818v419.64727v419.64727h-447.13818h-447.13818v-419.64727z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8cb19828-4aaf-40d9-9e16-81326bfd1e57\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "WhashinFacility",
+      "@type" : "oa:Tag",
+      "chars" : "WhashinFacility"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Electronic signage",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Electronic signage</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:23:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701354186907",
+    "dcterms:modified" : "2023-11-30T14:23:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=818,2910,413,64"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M817.50109,2909.67357l1.57091,51.84l410.00727,12.56727l1.57091,-45.55636z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_38317489-ac5c-4048-ae10-4074940dd161\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff9700\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Editor'sComment:Article mentions or dealing with Whashin Department Store.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Editor'sComment:Article mentions or dealing with Whashin Department Store.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:08:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701353292295",
+    "dcterms:modified" : "2023-11-30T14:27:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=99,2822,1258,876"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M99.07511,2821.89533h628.78876v0h628.78876v437.8691v437.8691h-628.78876h-628.78876v-437.8691z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.71373,0.19216,0.11765],&quot;editable&quot;:true}\" id=\"rectangle_7b0c2bf5-31d9-4d1c-9208-04adb68d4e20\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#b6311e\" stroke-width=\"12.56727\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "subtitle",
+      "@type" : "oa:Tag",
+      "chars" : "subtitle"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "十一月初旬開店",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>十一月初旬開店</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:14:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701353668996",
+    "dcterms:modified" : "2023-11-30T14:14:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=197,2927,47,291"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M197.21599,2926.73256h23.27273v0h23.27273v145.54545v145.54545h-23.27273h-23.27273v-145.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6eca50c6-88c1-44a1-b92e-d1bcd771be40\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#79c130\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "caption",
+      "@type" : "oa:Tag",
+      "chars" : "caption"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "(사진은화신신관)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>(사진은화신신관)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/152469503",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-11-30T14:21:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1701354096795",
+    "dcterms:modified" : "2023-11-30T14:21:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisundh.github.io/whashin23iiif/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=113,3332,37,231"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M113.30473,3331.81902h18.28v0h18.28v115.67636v115.67636h-18.28h-18.28v-115.67636z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7d4b3492-4c59-440d-981b-0f1fa95adadd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c66df53a-e8c5-4ffd-8e0c-c5eef96b587d"
+    } ]
+  } ],
+  "@id" : "https://jisundh.github.io/whashin23iiif/annotations/6e4c14407fd46b73a69e07c13ed8a75f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
